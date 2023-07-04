@@ -1,0 +1,16 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 44px;
+    color: darkred;
+}
+
+ul {
+    font-size: 20px;
+    color: crimson;
+    background-color:khaki
+}
