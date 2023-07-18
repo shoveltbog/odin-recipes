@@ -1,3 +1,5 @@
+/* homepage styling + theme styling */
+
 body {
     font-family:Arial, Helvetica, sans-serif;
 }
@@ -9,8 +11,28 @@ h1 {
     color: darkred;
 }
 
-ul {
+.recipes {
     font-size: 20px;
     color: crimson;
     background-color:khaki
+}
+
+/* recipe pages styling */
+
+.recipe-content {
+    color: red;
+    font-size: 18px;
+    text-align:center ;
+}
+
+.info {
+    text-align: left;
+}
+
+img {
+    border-radius: 8px;
+    border-style: groove;
+    padding: 6px;
+    height: auto;
+    width: 900px;
 }
